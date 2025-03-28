@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Polaroid
+  - PhotoDisplayArea
+  - Enemy
+  - Lever2
+  - Lever1
+  - Lever3
+  - Lever4
+  - InteractiveObject
+  - ControllBox
+  - Answer
+  - Win
+  - CodeLock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - Enemy
+  - Front Door
+  - Back Door
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
